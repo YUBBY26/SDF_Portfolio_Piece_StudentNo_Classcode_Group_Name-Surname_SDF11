@@ -1,19 +1,8 @@
-# Installation
+LOOM recorded videos explaining code with live server output displayed.
 
-```
-# Install dependencies
-npm install
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+https://www.loom.com/share/4e9930c36e6b4aef9cdde4f6c7292621?sid=961d83d0-b199-421d-9c23-6cb71a2c4646
 
-# Compile Tailwind CSS
-npm run build
+https://www.loom.com/share/919c98f646984621bc8d0c13e7559009?sid=7942283c-aec7-4f4d-81da-f7192da00719
 
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+https://www.loom.com/share/92644d9223e642b391af28ab71f08c4a?sid=573e1df2-154b-4c17-aecb-18490085e1a9
